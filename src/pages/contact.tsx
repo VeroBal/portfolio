@@ -1,7 +1,7 @@
 function Contact() {
   return (
     <>
-      <h1 className="bg-brand-primary">Contact</h1>
+      <h1 className="text-red-500">Contact</h1>
     </>
   );
 }

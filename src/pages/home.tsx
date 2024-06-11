@@ -1,7 +1,7 @@
 function HomePage() {
   return (
     <>
-      <h1 className="bg-brand-primary">Home</h1>
+      <h1 className="text-red-500">Home</h1>
     </>
   );
 }
